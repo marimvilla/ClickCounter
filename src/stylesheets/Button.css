@@ -1,0 +1,30 @@
+
+
+button{
+    width: 200px;
+    height: 80px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    color: #fff;
+    border-radius: 45px;
+    margin: 7px;
+    cursor: pointer;
+    border: none;
+    transition-duration: 0.5s;
+    font-size: 1.4rem;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: #bc2398;
+}
+
+.button-click{
+    background-color: #64b7cc;
+}
+
+.button-restart{
+    background-color: #ff5733;
+}
+/*
+#ffc30f*/

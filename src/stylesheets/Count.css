@@ -1,0 +1,12 @@
+.counter{
+  height: 300px;
+  border: 8px double #00ccff75;
+  border-radius: 15px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  font-size: 160px;
+  margin: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: #3e90a5;
+}
